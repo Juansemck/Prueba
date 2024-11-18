@@ -1,0 +1,73 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 17 Nov 2024 22:42:30 at https://urepublicana.edu.co/pages/index.php# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://urepublicana.edu.co/pages/index.php# -O1 "C:\Mis lugares Web\Prueba" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:44:49	Warning: 	Moved Permanently for urepublicana.edu.co/robots.txt
+22:44:49	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/robots.txt and https://urepublicana.edu.co/robots.txt
+22:44:49	Warning: 	Warning moved treated for urepublicana.edu.co/robots.txt (real one is https://urepublicana.edu.co/robots.txt)
+22:44:49	Warning: 	Moved Permanently for urepublicana.edu.co/pages/
+22:44:49	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/ and https://urepublicana.edu.co/pages/
+22:44:49	Warning: 	File has moved from urepublicana.edu.co/pages/ to https://urepublicana.edu.co/pages/
+22:44:49	Warning: 	Moved Permanently for urepublicana.edu.co/pages/nosotros/
+22:44:49	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/nosotros/ and https://urepublicana.edu.co/pages/nosotros/
+22:44:49	Warning: 	File has moved from urepublicana.edu.co/pages/nosotros/ to https://urepublicana.edu.co/pages/nosotros/
+22:46:37	Warning: 	Moved Permanently for urepublicana.edu.co/pages/bienestar/
+22:46:37	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/bienestar/ and https://urepublicana.edu.co/pages/bienestar/
+22:46:37	Warning: 	File has moved from urepublicana.edu.co/pages/bienestar/ to https://urepublicana.edu.co/pages/bienestar/
+22:46:39	Warning: 	Moved Permanently for urepublicana.edu.co/pages/investigacion/
+22:46:39	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/investigacion/ and https://urepublicana.edu.co/pages/investigacion/
+22:46:39	Warning: 	File has moved from urepublicana.edu.co/pages/investigacion/ to https://urepublicana.edu.co/pages/investigacion/
+22:46:39	Warning: 	Moved Permanently for urepublicana.edu.co/pages/internacionalizacion/
+22:46:39	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/internacionalizacion/ and https://urepublicana.edu.co/pages/internacionalizacion/
+22:46:39	Warning: 	File has moved from urepublicana.edu.co/pages/internacionalizacion/ to https://urepublicana.edu.co/pages/internacionalizacion/
+22:46:39	Warning: 	Moved Permanently for urepublicana.edu.co/pages/egresados/
+22:46:39	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/egresados/ and https://urepublicana.edu.co/pages/egresados/
+22:46:39	Warning: 	File has moved from urepublicana.edu.co/pages/egresados/ to https://urepublicana.edu.co/pages/egresados/
+22:46:42	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/images/web/menu/Docentes.png (from https://urepublicana.edu.co/pages/index.php)
+22:46:42	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/images/web/menu/Autoevaluación.png (from https://urepublicana.edu.co/pages/index.php)
+22:46:54	Warning: 	Moved Permanently for urepublicana.edu.co/pages/gaceta/
+22:46:54	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/gaceta/ and https://urepublicana.edu.co/pages/gaceta/
+22:46:54	Warning: 	File has moved from urepublicana.edu.co/pages/gaceta/ to https://urepublicana.edu.co/pages/gaceta/
+23:14:57	Warning: 	Retry after error -4 (Connect Error) at link https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js (from https://urepublicana.edu.co/pages/index.php)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/a (from https://connect.facebook.net/en_US/fbevents.js)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/POST (from https://connect.facebook.net/en_US/fbevents.js)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+23:15:00	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/assets/owlcarousel/owl.video.play.png (from https://urepublicana.edu.co/assets/owlcarousel/owl.carousel.css)
+23:15:00	Warning: 	Moved Permanently for urepublicana.edu.co/pages/principal/
+23:15:00	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/principal/ and https://urepublicana.edu.co/pages/principal/
+23:15:00	Warning: 	File has moved from urepublicana.edu.co/pages/principal/ to https://urepublicana.edu.co/pages/principal/
+23:15:00	Warning: 	Moved Permanently for urepublicana.edu.co/pages/programa/
+23:15:00	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/programa/ and https://urepublicana.edu.co/pages/programa/
+23:15:00	Warning: 	File has moved from urepublicana.edu.co/pages/programa/ to https://urepublicana.edu.co/pages/programa/
+23:15:00	Warning: 	Moved Permanently for urepublicana.edu.co/pages/financiacion/
+23:15:00	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/financiacion/ and https://urepublicana.edu.co/pages/financiacion/
+23:15:00	Warning: 	File has moved from urepublicana.edu.co/pages/financiacion/ to https://urepublicana.edu.co/pages/financiacion/
+23:15:01	Warning: 	Moved Permanently for urepublicana.edu.co/pages/admisiones/?mod=pos
+23:15:01	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/admisiones/?mod=pos and https://urepublicana.edu.co/pages/admisiones/?mod=pos
+23:15:01	Warning: 	File has moved from urepublicana.edu.co/pages/admisiones/?mod=pos to https://urepublicana.edu.co/pages/admisiones/?mod=pos
+23:16:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/mujeres_genero_acoso_callejero_y_activismo_digital (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia)
+23:17:45	Warning: 	Moved Permanently for urepublicana.edu.co/pages/privado/
+23:17:45	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/privado/ and https://urepublicana.edu.co/pages/privado/
+23:17:45	Warning: 	File has moved from urepublicana.edu.co/pages/privado/ to https://urepublicana.edu.co/pages/privado/
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/tesoreria@urepublicana.edu.co (from https://urepublicana.edu.co/pages/admisiones.php)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/www.urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/hoy_19_de_octubre_de_2022_se_realizaran_clases_presenciales_con_normalidad)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/escueladelenguas@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/inscripciones_abiertas_cursos_de_ingles_octubre_2022)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/consultoriojuridico1@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/cronograma_para_entrega_de_informes_consultorio_juridico_primer_corte)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/consultoriojuridico2@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/cronograma_para_entrega_de_informes_consultorio_juridico_primer_corte)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/consultoriojuridico3@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/cronograma_para_entrega_de_informes_consultorio_juridico_primer_corte)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/consultoriojuridico4@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/cronograma_para_entrega_de_informes_consultorio_juridico_primer_corte)
+23:18:33	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/principal/noticia/nuevaconvocatoriadocente@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/principal/noticia/nueva_convocatoria_docente)
+23:18:49	Warning: 	Moved Permanently for urepublicana.edu.co/pages/Blog_Republicano/
+23:18:49	Warning: 	Redirected link is identical because of 'URL Hack' option: urepublicana.edu.co/pages/Blog_Republicano/ and https://urepublicana.edu.co/pages/Blog_Republicano/
+23:18:49	Warning: 	File has moved from urepublicana.edu.co/pages/Blog_Republicano/ to https://urepublicana.edu.co/pages/Blog_Republicano/
+23:18:49	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/privado/noticia/escueladelenguas@urepublicana.edu.co (from https://urepublicana.edu.co/pages/publicaciones/privado/noticia/requisitos_de_suficiencia_en_un_segundo_idioma)
+23:18:49	Error: 	"Not Found" (404) at link https://urepublicana.edu.co/pages/publicaciones/privado/noticia/www.davivienda.com (from https://urepublicana.edu.co/pages/publicaciones/privado/noticia/financiacion)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 minutes 19 seconds : 2123 links scanned, 2088 files written (204975507 bytes overall) [132549766 bytes received at 60830 bytes/sec], 204974064 bytes transferred using HTTP compression in 2085 files, ratio 63%, 21.5 requests per connection
+(18 errors, 44 warnings, 0 messages)
